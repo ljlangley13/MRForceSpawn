@@ -1,0 +1,4 @@
+name: MRForceSpawn
+main: com.mushroomrevival.mrforcespawn.MRForceSpawn
+version: 1.0
+             This plugin teleports players to spawn when they join the server.
