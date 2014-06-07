@@ -1,3 +1,5 @@
 #Welcome to the MRForceSpawn config file. 
 #Thank you gor downloading my plugin.
 ServerName: InsertServerName
+#If you do not want to show the join message type false.
+Enable-JoinMessage: true
