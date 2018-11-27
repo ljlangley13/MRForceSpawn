@@ -1,4 +1,4 @@
-package com.mushroomrevival.mrforcespawn;
+package com.shadowblox.shadowforcespawn;
 
 import java.io.File;
 
@@ -9,7 +9,7 @@ import org.bukkit.event.Listener;
 import org.bukkit.event.player.PlayerJoinEvent;
 import org.bukkit.plugin.java.JavaPlugin;
 
-public class MRForceSpawn extends JavaPlugin implements Listener {
+public class ShadowForceSpawn extends JavaPlugin implements Listener {
 	
 
 	public void onEnable() {
